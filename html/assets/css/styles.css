@@ -1,0 +1,23 @@
+body{
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+
+.fotografia{
+    border-radius: 10px;
+    width: 300px;
+}
+
+
+.Principal{
+    display: flex;
+
+}
+
+.columna1{
+    width: 30%;
+}
+
+.columna2{
+    width: 70%;
+}
